@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ritinkar Das Bhaumik"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Ritinkar Das Bhaumik"
+description              : &description "PhD Scholar in Economics"
 url                      : https://RitinkarDB.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RitinkarDB/RitinkarDB.github.io"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ritinkar Das Bhaumik"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "he/him"
+  bio              : "PhD Scholar. Decision theory, behavioural economics, experimental economics"
+  location         : "Norwich, United Kingdom"
+  employer         : "University of East Anglia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "r.das-bhaumik@uea.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
