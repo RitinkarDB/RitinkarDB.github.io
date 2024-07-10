@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D in Economics, School of Economics, University of East Anglia (2025)
+  * Supervisors: Theodore Turocy and Peter Moffatt 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Autumn 2023: Teaching Assistant
+  * School of Economics, University of East Anglia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2024: Teaching Assistant
+  * School fo Economics, University of East Anglia
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Languages
+  * English(native) 
+  * Bengali(native)
+  *  German(basic) 
+  *  Assamese(basic)
+  *  Dutch(work in progress)
+* Computer Languages
+  * Python
+  * R
+  * JavaScript
+  * C
+* Other Computer Related Skills
+  * HTML/CSS
+  * LaTeX
+  * git
+  * STATA
+  * SQL
 
 Publications
 ======
@@ -59,6 +59,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
