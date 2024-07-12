@@ -13,6 +13,8 @@ Education
 ======
 * Ph.D in Economics, School of Economics, University of East Anglia (2025)
   * Supervisors: Theodore Turocy and Peter Moffatt 
+
+
 Work experience
 ======
 * Autumn 2023: Teaching Assistant
@@ -41,7 +43,7 @@ Skills
   * STATA
   * SQL
 
-Publications
+Working Papers and Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
