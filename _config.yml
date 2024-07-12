@@ -27,7 +27,7 @@ author:
   bio              : "PhD Scholar. Decision theory, behavioural economics, experimental economics"
   location         : "Norwich, United Kingdom"
   employer         : "University of East Anglia"
-  uri              : # URL
+  uri              : "https://research-portal.uea.ac.uk/en/persons/ritinkar-das-bhaumik"
   email            : "r.das-bhaumik@uea.ac.uk" 
 
   # Academic websites
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9560-7531"
-  semantic         : "https://research-portal.uea.ac.uk/en/persons/ritinkar-das-bhaumik"
+  semantic         : # URL 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "RitinkarDB"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
