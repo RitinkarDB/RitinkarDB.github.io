@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, School of Economics, University of East Anglia (2025)
+* Ph.D in Economics, School of Economics, University of East Anglia (2022-2025)
   * Supervisors: Theodore Turocy and Peter Moffatt 
-
+* Masters of Arts, Department of Economics, Ashoka University (2020-2022)
+  * Masters research project: A Study of Housing Discrimination in Calcutta
+* Bachelor of Science, Department of Economics, Shiv Nadar University (2017-2020)
 
 Work experience
 ======
@@ -21,7 +23,7 @@ Work experience
   * School of Economics, University of East Anglia
 
 * Spring 2024: Teaching Assistant
-  * School fo Economics, University of East Anglia
+  * School of Economics, University of East Anglia
   
 Skills
 ======
@@ -35,7 +37,8 @@ Skills
   * Python
   * R
   * JavaScript
-  * C
+  * C/C++
+  * Prolog
 * Other Computer Related Skills
   * HTML/CSS
   * LaTeX
@@ -43,11 +46,6 @@ Skills
   * STATA
   * SQL
 
-Working Papers and Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
