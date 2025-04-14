@@ -13,9 +13,7 @@ Education
 ======
 * Ph.D in Economics, School of Economics, University of East Anglia (2022-2025)
   * Supervisors: Theodore Turocy and Peter Moffatt 
-* Masters of Arts, Department of Economics, Ashoka University (2020-2022)
-  * Masters research project: A Study of Housing Discrimination in Calcutta
-* Bachelor of Science, Department of Economics, Shiv Nadar University (2017-2020)
+
 
 Work experience
 ======
